@@ -2,7 +2,7 @@
   "name": "firstwebsite",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aniket-pa/github.io/filteredCardList",
+  "homepage": "https://aniket-pa/github.io/filteredCardListUI",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
