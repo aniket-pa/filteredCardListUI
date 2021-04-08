@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/filteredCardListUI/static/css/main.50cb3d44.chunk.css",
+    "main.js": "/github.io/filteredCardListUI/static/js/main.3253ec27.chunk.js",
+    "main.js.map": "/github.io/filteredCardListUI/static/js/main.3253ec27.chunk.js.map",
+    "runtime-main.js": "/github.io/filteredCardListUI/static/js/runtime-main.bac1e62a.js",
+    "runtime-main.js.map": "/github.io/filteredCardListUI/static/js/runtime-main.bac1e62a.js.map",
+    "static/js/2.8d90a23f.chunk.js": "/github.io/filteredCardListUI/static/js/2.8d90a23f.chunk.js",
+    "static/js/2.8d90a23f.chunk.js.map": "/github.io/filteredCardListUI/static/js/2.8d90a23f.chunk.js.map",
+    "static/js/3.019dbd70.chunk.js": "/github.io/filteredCardListUI/static/js/3.019dbd70.chunk.js",
+    "static/js/3.019dbd70.chunk.js.map": "/github.io/filteredCardListUI/static/js/3.019dbd70.chunk.js.map",
+    "index.html": "/github.io/filteredCardListUI/index.html",
+    "static/css/main.50cb3d44.chunk.css.map": "/github.io/filteredCardListUI/static/css/main.50cb3d44.chunk.css.map",
+    "static/js/2.8d90a23f.chunk.js.LICENSE.txt": "/github.io/filteredCardListUI/static/js/2.8d90a23f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/github.io/filteredCardListUI/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bac1e62a.js",
+    "static/js/2.8d90a23f.chunk.js",
+    "static/css/main.50cb3d44.chunk.css",
+    "static/js/main.3253ec27.chunk.js"
+  ]
+}
